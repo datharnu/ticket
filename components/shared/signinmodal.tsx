@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { UserPlus, LogIn } from "lucide-react"; // Using Lucide React icons
-import Logo from "../../public/parallel.jpg";
+import Logo from "../../public/logo.png";
 import Image from "next/image";
 
 interface SignInModalProps {
